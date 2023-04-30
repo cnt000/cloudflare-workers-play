@@ -1,0 +1,6 @@
+name = "worker-turso-ts"
+main = "src/index.ts"
+compatibility_date = "2023-04-27"
+
+[vars]
+LIBSQL_DB_URL = "libsql://regular-empath-cnt000paramount.turso.io"
